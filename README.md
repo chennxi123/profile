@@ -10,8 +10,8 @@
 </p>
 
 
-<p align="center">
-  <img align="center" alt="Chen Xi" src="https://komarev.com/ghpvc/?username=chennxi123"/>
+<!-- <p align="center">
+  <img align="center" alt="Chen Xi" src="https://komarev.com/ghpvc/?username=chennxi123"/> -->
 </p>
 <p align="center">
   <img alt="Chennxi123's languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chennxi123&langs_count=6&layout=compact&theme=dark"/>
@@ -24,7 +24,7 @@
   <img style="margin:10px" alt="Samyak Linkedin" width="60px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" style="max-width:100%;">
   </a>
 
-  <!-- Fix this one tmrw -->
+
   <a href="mailto:samyakmehta@mail.utoronto.ca">
     <img alt="Samyak Linkedin" width="60px" src="https://github.com/Samyakk123/Samyakk123/blob/main/icons/mail.png" style="max-width:100%;">
   </a>
